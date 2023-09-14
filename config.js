@@ -6,27 +6,27 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['628xxx', 'Xyroinee', true]
+['62881036690566', 'pepek', true]
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '628xxx'
+global.nomorwa = '62881036690566'
 global.packname = 'anu - MD by'
-global.author = '© Xyroinee'
+global.author = '© pepek'
 global.namebot = '​anu - MD'
-global.wm = '© anu By Xyroine'
+global.wm = '© anu By pepek'
 global.stickpack = 'anu - MD by'
-global.stickauth = '© Xyroine'
+global.stickauth = '© pepek'
 global.fotonya = 'https://telegra.ph/file/83b522fd80b660705d1cd.jpg'
 // Link Sosmed
-global.sig = 'https://www.instagram.com/xyroinee'
-global.sgh = 'https://github.com/Xyroinee'
+global.sig = 'https://www.instagram.com/demo_ngki'
+global.sgh = 'https://github.com/demongki'
 global.sgc = 'https://chat.whatsapp.com/'
 // Donasi
-global.psaweria = 'https://saweria.co/Zeltoria'
-global.ptrakterr = 'https://trakteer.id/zeltoria'
-global.povo = '0896-1075-0607'
+global.psaweria = 'https://saweria.co/pepek'
+global.ptrakterr = 'https://trakteer.id/pepek'
+global.povo = '0881-03669-0566'
 // Info Wait
 global.wait = 'Sedang Di Proses, Mohon Tunggu....'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
